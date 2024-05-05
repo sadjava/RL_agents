@@ -1,4 +1,4 @@
-# RL_agents
+# rl_agents
 by Sadreddinov Dzhavid
 
 From scratch implementation of basic rl agents and techniques.
